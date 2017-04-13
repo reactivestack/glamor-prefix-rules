@@ -1,0 +1,23 @@
+{
+  "name": "glamor-prefix-rules",
+  "version": "0.1.0",
+  "description": "add prefix to every CSS rules from glamor",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "Benoit Tremblay <benoit@reactivestack.com>",
+  "homepage": "https://github.com/reactivestack/glamor-prefix-rules",
+  "license": "MIT",
+  "repository": "https://github.com/reactivestack/glamor-prefix-rules",
+  "keywords": [
+    "glamor",
+    "prefix",
+    "rules"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "glamor": ">= 2"
+  },
+  "devDependencies": {}
+}
