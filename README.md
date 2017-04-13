@@ -5,6 +5,10 @@ Because of the way CSS rules are working, you might want to prefix every CSS rul
 
 ## Usage
 
+```sh
+npm install -S glamor glamor-prefix-rules
+```
+
 ```js
 import glamor from 'glamor';
 import prefixRules from 'glamor-prefix-rules';
